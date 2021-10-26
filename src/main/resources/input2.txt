@@ -1,0 +1,8 @@
+3
+WA,SA,NT
+red,green,blue
+red,green
+green
+SA,NT
+WA,NT
+WA,SA
